@@ -1,4 +1,4 @@
-# “算法进阶”公众号文章精华汇总
+# “算法进阶”公众号文章精选
 ![算法进阶](https://github.com/aialgorithm/Blog/blob/master/%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6.jpg)
 
 ## 机器学习
@@ -18,6 +18,7 @@
 
 [《小微信用评分全流程》](https://github.com/aialgorithm/Blog/issues/5)
 
+[《客户流失预测及营销(源码)》](https://github.com/aialgorithm/Blog/issues/8)
 
 ## 网络协议原理
 
