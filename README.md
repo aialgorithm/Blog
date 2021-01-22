@@ -8,9 +8,9 @@
 
 [《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
 
-[《一文囊括序列预测方法(源码)》](https://github.com/aialgorithm/Blog/issues/7)
+[《一文囊括序列预测方法(Python)》](https://github.com/aialgorithm/Blog/issues/7)
 
-[《数据挖掘概要(源码)》](https://github.com/aialgorithm/datamining)
+[《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
 
 ## 金融科技
@@ -18,7 +18,7 @@
 
 [《小微信用评分全流程》](https://github.com/aialgorithm/Blog/issues/5)
 
-[《客户流失预测及营销(源码)》](https://github.com/aialgorithm/Blog/issues/8)
+[《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)
 
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 
