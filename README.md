@@ -1,6 +1,6 @@
 # “算法进阶”公众号文章精选
 分享Python、机器学习、深度学习、知识图谱等文章及项目，一起学习交流，欢迎 **Star & Fork**~
-![算法进阶](https://github.com/aialgorithm/Blog/blob/master/%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6.jpg)
+
 
 ## 机器学习
 [《机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
@@ -29,3 +29,6 @@
 ## 网络协议原理
 
 [《TCP/IP--图解从URL到网页通信原理》](https://github.com/liaoyongyu/blog/issues/1)
+
+
+![算法进阶](https://github.com/aialgorithm/Blog/blob/master/%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6.jpg)
