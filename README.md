@@ -1,5 +1,5 @@
-# “算法进阶”公众号文章精选
-分享Python、机器学习、深度学习、知识图谱等文章及项目，一起学习交流，欢迎 **Star & Fork**~
+# “算法进阶”公众号文章及源码
+分享Python、机器学习、深度学习、知识图谱等文章及源码，一起学习交流，欢迎 **Star & Fork**~
 
 [【文章相关的代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
 
@@ -28,7 +28,7 @@
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)
 
 
-## 网络协议原理
+## 网络
 
 [《TCP/IP--图解从URL到网页通信原理》](https://github.com/aialgorithm/Blog/issues/1)
 
