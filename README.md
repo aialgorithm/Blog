@@ -5,7 +5,7 @@
 
 
 ## 机器学习
-[《机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
+[《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
 
 [《程序员说模型过拟合的时候，说的是什么?》](https://github.com/aialgorithm/Blog/issues/3)
 
