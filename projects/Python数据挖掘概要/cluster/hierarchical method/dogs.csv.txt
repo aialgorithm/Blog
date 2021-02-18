@@ -1,0 +1,12 @@
+breed,height (inches),weight (pounds)
+Border Collie,20,45
+Boston Terrier,16,20
+Brittany Spaniel,18,35
+Bullmastiff,27,120
+Chihuahua,8,8
+German Shepherd,25,78
+Golden Retriever,23,70
+Great Dane,32,160
+Portuguese Water Dog,21,50
+Standard Poodle,19,65
+Yorkshire Terrier,6,7

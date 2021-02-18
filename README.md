@@ -1,5 +1,7 @@
-# “算法进阶”公众号文章及源码
-分享Python、机器学习、深度学习、知识图谱等文章及源码，一起学习交流，欢迎 **Star & Fork**~
+# “算法进阶”公众号原创文章及源码
+分享Python机器学习、深度学习、知识图谱等原创文章及源码，欢迎关注一起学习交流。
+
+欢迎 **Star & Fork**~
 
 [【文章相关的代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
 
@@ -8,6 +10,8 @@
 [《机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
 
 [《程序员说模型过拟合的时候，说的是什么?》](https://github.com/aialgorithm/Blog/issues/3)
+
+[《一文归纳Python特征生成方法(全)》](https://github.com/aialgorithm/Blog/issues/11)
 
 [《Python特征选择(全)》](https://github.com/aialgorithm/Blog/issues/10)
 
