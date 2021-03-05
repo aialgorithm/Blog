@@ -1,7 +1,6 @@
-# “算法进阶”公众号原创文章及源码
+## “算法进阶”公众号原创及源码，欢迎Star & Fork
 分享Python机器学习、深度学习、知识图谱等原创文章及源码。[【文章相关的代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
 
-### 欢迎 **Star & Fork**~
 
 
 ## 机器学习
@@ -12,6 +11,8 @@
 [《一文归纳Python特征生成方法(全)》](https://github.com/aialgorithm/Blog/issues/11)
 
 [《Python特征选择(全)》](https://github.com/aialgorithm/Blog/issues/10)
+
+[《一文归纳Ai调参炼丹之法》](https://github.com/aialgorithm/Blog/issues/12)
 
 [《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
 
