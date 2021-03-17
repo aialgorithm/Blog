@@ -12,6 +12,8 @@
 
 [《Python特征选择(全)》](https://github.com/aialgorithm/Blog/issues/10)
 
+[《一文归纳Ai数据增强之法》](https://github.com/aialgorithm/Blog/issues/13)
+
 [《一文归纳Ai调参炼丹之法》](https://github.com/aialgorithm/Blog/issues/12)
 
 [《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
