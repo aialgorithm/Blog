@@ -20,6 +20,8 @@
 
 [《一文囊括序列预测方法(Python)》](https://github.com/aialgorithm/Blog/issues/7)
 
+[《Python数据分析指南(全)》](https://github.com/aialgorithm/Blog/issues/14)
+
 [《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
 
