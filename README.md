@@ -24,6 +24,8 @@
 
 [《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
+[《Python半监督算法概览》](https://github.com/aialgorithm/Blog/issues/15)
+
 
 ## 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
