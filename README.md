@@ -1,6 +1,6 @@
-## “算法进阶”公众号原创及源码，欢迎Star & Fork
+## “算法进阶”公众号原创及源码 【欢迎Star & Fork】
 
-分享Python机器学习、深度学习算法等【原创文章】 【项目源码】【学习资源】
+分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源：
 - [【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
 - [【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
 
@@ -8,6 +8,8 @@
 
 ## 机器学习
 [《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
+
+[《Python数据分析指南(全)》](https://github.com/aialgorithm/Blog/issues/14)
 
 [《程序员说模型过拟合的时候，说的是什么?》](https://github.com/aialgorithm/Blog/issues/3)
 
@@ -22,8 +24,6 @@
 [《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
 
 [《一文囊括序列预测方法(Python)》](https://github.com/aialgorithm/Blog/issues/7)
-
-[《Python数据分析指南(全)》](https://github.com/aialgorithm/Blog/issues/14)
 
 [《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
