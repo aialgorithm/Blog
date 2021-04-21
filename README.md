@@ -1,6 +1,8 @@
 ## “算法进阶”公众号原创及源码，欢迎Star & Fork
 
-分享Python机器学习、深度学习算法等原创及项目源码。[【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
+分享Python机器学习、深度学习算法等【原创文章】 【项目源码】【学习资源】
+- [【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
+- [【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
 
 
 
@@ -31,7 +33,7 @@
 ## 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
-[《小微信用评分全流程》](https://github.com/aialgorithm/Blog/issues/5)
+[《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
 
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 
