@@ -7,6 +7,8 @@
 
 
 ## 机器学习
+[《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)
+
 [《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
 
 [《Python数据分析指南(全)》](https://github.com/aialgorithm/Blog/issues/14)
