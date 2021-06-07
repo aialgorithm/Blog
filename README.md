@@ -31,6 +31,8 @@
 
 [《Python半监督算法概览》](https://github.com/aialgorithm/Blog/issues/15)
 
+[《分布式机器学习原理及实战(Pyspark)》](https://github.com/aialgorithm/Blog/issues/17)
+
 
 ## 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
