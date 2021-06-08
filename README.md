@@ -1,4 +1,4 @@
-## “算法进阶”公众号原创及源码 【欢迎Star & Fork】
+## "算法进阶"公众号精选文章及源码 【欢迎点亮Star ~】
 
 分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源：
 - [【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
