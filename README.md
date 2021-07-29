@@ -27,6 +27,8 @@
 
 [《一文囊括序列预测方法(Python)》](https://github.com/aialgorithm/Blog/issues/7)
 
+[《异常检测算法速览(Python)》](https://github.com/aialgorithm/Blog/issues/18)
+
 [《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
 [《Python半监督算法概览》](https://github.com/aialgorithm/Blog/issues/15)
@@ -44,7 +46,8 @@
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)
 
 
-## 网络
+
+## 其他
 
 [《TCP/IP--图解从URL到网页通信原理》](https://github.com/aialgorithm/Blog/issues/1)
 
