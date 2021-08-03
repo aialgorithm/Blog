@@ -1,4 +1,4 @@
-## "算法进阶"公众号精选文章及源码 【欢迎点亮Star ~】
+## "算法进阶"公众号精选文章及源码 【欢迎点亮Star收藏 ~】
 
 分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源：
 - [【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
@@ -23,17 +23,22 @@
 
 [《一文归纳Ai调参炼丹之法》](https://github.com/aialgorithm/Blog/issues/12)
 
-[《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
+[《异常检测算法速览(Python)》](https://github.com/aialgorithm/Blog/issues/18)
 
 [《一文囊括序列预测方法(Python)》](https://github.com/aialgorithm/Blog/issues/7)
 
-[《异常检测算法速览(Python)》](https://github.com/aialgorithm/Blog/issues/18)
+[《Python半监督算法概览》](https://github.com/aialgorithm/Blog/issues/15)
+
+[《一文道尽XGBOOST的前世今生》](https://github.com/aialgorithm/Blog/issues/4)
 
 [《数据挖掘概要(Python)》](https://github.com/aialgorithm/datamining)
 
-[《Python半监督算法概览》](https://github.com/aialgorithm/Blog/issues/15)
-
 [《分布式机器学习原理及实战(Pyspark)》](https://github.com/aialgorithm/Blog/issues/17)
+
+## 机器/深度学习通俗序列
+[《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
+
+
 
 
 ## 金融科技
