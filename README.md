@@ -1,12 +1,19 @@
 ## "算法进阶"公众号精选文章及源码 【欢迎点亮Star收藏 ~】
 
-分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源：
-- [【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
-- [【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
+分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源
 
+---
+## 项目代码
+[【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
 
+---
+## 学习资源
+[【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
 
-## 机器学习
+---
+## 原创文章
+
+### 机器学习
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)
 
 [《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)
@@ -35,13 +42,13 @@
 
 [《分布式机器学习原理及实战(Pyspark)》](https://github.com/aialgorithm/Blog/issues/17)
 
-## 从机器学习到深度学习序列文章
+### 从机器学习到深度学习序列文章
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 
 [《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)
 
 
-## 金融科技
+### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
 [《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
@@ -52,7 +59,7 @@
 
 
 
-## 其他
+### 其他
 
 [《TCP/IP--图解从URL到网页通信原理》](https://github.com/aialgorithm/Blog/issues/1)
 
