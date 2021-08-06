@@ -38,7 +38,7 @@
 ## 从机器学习到深度学习序列文章
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 
-
+[《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)
 
 
 ## 金融科技
