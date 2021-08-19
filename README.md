@@ -49,7 +49,7 @@
 
 [《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)
 
-[《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)
+[《一文全览机器学习建模流程（Python代码）》](https://github.com/aialgorithm/Blog/issues/21)
 
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
