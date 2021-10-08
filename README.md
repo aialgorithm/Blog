@@ -53,6 +53,8 @@
 
 [《一文全览机器学习建模流程（Python代码）》](https://github.com/aialgorithm/Blog/issues/21)
 
+[《神经元谈到深度神经网络》](https://github.com/aialgorithm/Blog/issues/23)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
