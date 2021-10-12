@@ -55,6 +55,8 @@
 
 [《神经元谈到深度神经网络》](https://github.com/aialgorithm/Blog/issues/23)
 
+[《一文讲透神经网络的激活函数》](https://github.com/aialgorithm/Blog/issues/24)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
