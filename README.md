@@ -57,6 +57,8 @@
 
 [《一文讲透神经网络的激活函数》](https://github.com/aialgorithm/Blog/issues/24)
 
+[《神经网络拟合能力的提升之路（Pyhton）》](https://github.com/aialgorithm/Blog/issues/25)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
