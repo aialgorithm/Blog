@@ -59,6 +59,8 @@
 
 [《神经网络拟合能力的提升之路（Pyhton）》](https://github.com/aialgorithm/Blog/issues/25)
 
+[《一文概览神经网络模型》](https://github.com/aialgorithm/Blog/issues/26)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
