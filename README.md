@@ -61,6 +61,8 @@
 
 [《一文概览神经网络模型》](https://github.com/aialgorithm/Blog/issues/26)
 
+[《神经网络学习到的是什么？（Python）》](https://github.com/aialgorithm/Blog/issues/27)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
