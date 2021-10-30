@@ -76,6 +76,8 @@
 
 ### 其他
 
+[《程序员面试完全指南》](https://github.com/aialgorithm/Blog/issues/28)
+
 [《TCP/IP--图解从URL到网页通信原理》](https://github.com/aialgorithm/Blog/issues/1)
 
 ![关注公众号：算法进阶](https://user-images.githubusercontent.com/33707637/119756102-9f9b5200-bed5-11eb-85f9-5dbc264d447d.png)
