@@ -63,6 +63,8 @@
 
 [《神经网络学习到的是什么？（Python）》](https://github.com/aialgorithm/Blog/issues/27)
 
+[《一文深层解决过拟合》](https://github.com/aialgorithm/Blog/issues/29)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
