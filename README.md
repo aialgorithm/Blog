@@ -65,6 +65,8 @@
 
 [《一文深层解决过拟合》](https://github.com/aialgorithm/Blog/issues/29)
 
+[《一文概览神经网络优化算法》](https://github.com/aialgorithm/Blog/issues/30)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
