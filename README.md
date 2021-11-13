@@ -67,6 +67,8 @@
 
 [《一文概览神经网络优化算法》](https://github.com/aialgorithm/Blog/issues/30)
 
+[《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)
+
 ### 金融科技
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 
