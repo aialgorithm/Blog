@@ -46,6 +46,8 @@
 
 [《分布式机器学习原理及实战(Pyspark)》](https://github.com/aialgorithm/Blog/issues/17)
 
+[《一文深度解读模型评估方法》](https://github.com/aialgorithm/Blog/issues/32)
+
 ### 从机器学习到深度学习序列文章
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 
