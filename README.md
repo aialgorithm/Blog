@@ -48,6 +48,8 @@
 
 [《一文深度解读模型评估方法》](https://github.com/aialgorithm/Blog/issues/32)
 
+[《全面解析并实现逻辑回归(Python)》](https://github.com/aialgorithm/Blog/issues/33)
+
 ### 从机器学习到深度学习序列文章
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 
