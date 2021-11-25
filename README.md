@@ -1,20 +1,10 @@
-## "算法进阶"公众号精选文章及源码 【欢迎点亮Star收藏 ~】
+## "算法进阶"公众号精选文章及代码 【欢迎点亮Star收藏 ~】
 
-分享Python机器学习、深度学习算法等原创文章、项目源码及学习资源。
+分享Python机器学习及深度学习算法等原创文章、代码及学习资源。
 
 原创不易，感谢阅读及关注~
 
 ---
-## 项目代码
-[【文章相关的项目代码路径】](https://github.com/aialgorithm/Blog/tree/master/projects/)
-
----
-## 学习资源
-[【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
-
----
-## 原创文章目录
-
 <h3 id="1">机器学习</h3>
 
 |<img width=300/>文章<img width=300/>| 代码|
@@ -56,7 +46,11 @@
 [《一文概览神经网络优化算法》](https://github.com/aialgorithm/Blog/issues/30)
 [《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B(Python))
 
-### 金融科技
+
+<h3 id="3">金融科技</h3>
+
+|<img width=300/>文章<img width=300/>| 代码|
+ :-: | :-: |
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 [《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
@@ -65,7 +59,7 @@
 
 
 ### 其他
-[【Python、机器学习算法学习资源】](https://github.com/aialgorithm/AiPy)
+[【Python、机器学习算法学习资源汇总】](https://github.com/aialgorithm/AiPy)
 
 [《程序员面试完全指南》](https://github.com/aialgorithm/Blog/issues/28)
 
