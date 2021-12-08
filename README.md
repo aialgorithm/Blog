@@ -46,7 +46,7 @@
 [《一文概览神经网络优化算法》](https://github.com/aialgorithm/Blog/issues/30)
 [《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B(Python))
 [《一文详解RNN及股票预测实战(Python)！》](https://github.com/aialgorithm/Blog/issues/35)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%AF%A6%E8%A7%A3RNN%E5%8F%8A%E5%AE%9E%E6%88%98(Python))
-
+[《一文弄懂CNN及图像识别(Python)》](https://github.com/aialgorithm/Blog/issues/37)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82CNN%E5%8F%8A%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB(Python))
 
 <h3 id="3">金融科技</h3>
 
