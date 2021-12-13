@@ -28,7 +28,7 @@
 [《全面解析并实现逻辑回归(Python)》](https://github.com/aialgorithm/Blog/issues/33)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0(Python))
 [《逻辑回归优化技巧总结(全)》](https://github.com/aialgorithm/Blog/issues/34)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93(%E5%85%A8))
 [《全面归纳距离和相似度方法(7种)》](https://github.com/aialgorithm/Blog/issues/36)
-
+[《深入理解KNN扩展到ANN)》](https://github.com/aialgorithm/Blog/issues/38)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3KNN%E6%89%A9%E5%B1%95%E5%88%B0ANN)
 
 <h3 id="2">从机器学习到深度学习序列文章</h3>
 
