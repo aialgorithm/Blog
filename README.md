@@ -49,7 +49,7 @@
 [《全面归纳距离和相似度方法(7种)》](https://github.com/aialgorithm/Blog/issues/36)
 [《深入理解KNN扩展到ANN)》](https://github.com/aialgorithm/Blog/issues/38)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3KNN%E6%89%A9%E5%B1%95%E5%88%B0ANN)
 [《从深度学习到深度森林方法（Python）》](https://github.com/aialgorithm/Blog/issues/38)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E9%A2%84%E6%B5%8B)
-
+[《一文全面解决样本不均衡》](https://github.com/aialgorithm/Blog/issues/40)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%A7%A3%E5%86%B3%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1(%E5%85%A8))
 
 <h3 id="3">金融科技</h3>
 
