@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-"""
-本项目源自
-github.com/AaronJny/DeepLearningExamples/tree/master/tf2-rnn-poetry-generator
-做了些修改
-"""
+# @File    : model.py
+# @Author  : AaronJny
+# @Time    : 2020/01/01
+# @Desc    : 项目源于AaronJny，做了些修改
 
 import tensorflow as tf
 from dataset import tokenizer
 import settings
 import utils
+
 
 # 加载训练好的模型
 model = tf.keras.models.load_model(settings.BEST_MODEL_PATH)
