@@ -1,3 +1,0 @@
-tensorflow==2.3.1
-numpy==1.18.5
-tqdm==4.54.1
