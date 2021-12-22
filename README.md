@@ -7,7 +7,7 @@
 ---
 <h3 id="2">从机器学习到深度学习序列文章</h3>
 
-|<img width=50/>文章<img width=50/>| 代码|
+|<img width=100/>文章<img width=100/>| 代码|
  :-: | :-: |
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 [《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%B1%BB%E5%88%AB%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
@@ -26,7 +26,7 @@
 
 <h3 id="1">机器学习</h3>
 
-|<img width=50/>文章<img width=50/>| 代码|
+|<img width=100/>文章<img width=100/>| 代码|
  :-: | :-: |
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
 [《Python人工智能学习路线(长篇干货) 》](https://github.com/aialgorithm/Blog/issues/22)|[资源](https://github.com/aialgorithm/AiPy)
@@ -53,7 +53,7 @@
 
 <h3 id="3">金融科技</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=100/>文章<img width=100/>| 代码|
  :-: | :-: |
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 [《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
