@@ -7,7 +7,7 @@
 ---
 <h3 id="2">从机器学习到深度学习序列文章</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=50/>文章<img width=50/>| 代码|
  :-: | :-: |
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 [《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%B1%BB%E5%88%AB%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
@@ -22,11 +22,11 @@
 [《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B(Python))
 [《一文详解RNN及股票预测实战(Python)！》](https://github.com/aialgorithm/Blog/issues/35)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%AF%A6%E8%A7%A3RNN%E5%8F%8A%E5%AE%9E%E6%88%98(Python))
 [《一文弄懂CNN及图像识别(Python)》](https://github.com/aialgorithm/Blog/issues/37)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82CNN%E5%8F%8A%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB(Python))
-[《LSTM原理及生成藏头诗（Python）》](https://github.com/aialgorithm/Blog/issues/41)|[代码]
-(https://github.com/aialgorithm/Blog/tree/master/projects/LSTM)
+[《LSTM原理及生成藏头诗（Python）》](https://github.com/aialgorithm/Blog/issues/41)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/LSTM)
+
 <h3 id="1">机器学习</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=50/>文章<img width=50/>| 代码|
  :-: | :-: |
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
 [《Python人工智能学习路线(长篇干货) 》](https://github.com/aialgorithm/Blog/issues/22)|[资源](https://github.com/aialgorithm/AiPy)
