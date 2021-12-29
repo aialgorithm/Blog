@@ -52,6 +52,7 @@
 [《一文全面解决样本不均衡》](https://github.com/aialgorithm/Blog/issues/40)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%A7%A3%E5%86%B3%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1(%E5%85%A8))
 [《全面解析Kmeans聚类(Python)》](https://github.com/aialgorithm/Blog/issues/42)|[代码](./projects/kmeans++)
 
+
 <h3 id="3">金融科技</h3>
 
 |<img width=300/>文章<img width=300/>| 代码|
@@ -60,7 +61,7 @@
 [《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%AE%A2%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%8F%8A%E8%90%A5%E9%94%80)
-
+[《一窥推荐系统的原理》](https://github.com/aialgorithm/Blog/issues/43)
 
 
 ### 其他
