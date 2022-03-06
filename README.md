@@ -58,7 +58,6 @@
 |<img width=300/>文章<img width=300/>| 代码|
  :-: | :-: |
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
-[《信用评分建模全流程》](https://github.com/aialgorithm/Blog/issues/5)
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%AE%A2%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%8F%8A%E8%90%A5%E9%94%80)
 [《一窥推荐系统的原理》](https://github.com/aialgorithm/Blog/issues/43)
