@@ -54,6 +54,7 @@
 [《全面解析Kmeans聚类(Python)》](https://github.com/aialgorithm/Blog/issues/42)|[代码](./projects/kmeans++)
 [《一文通俗讲透树模型》](https://github.com/aialgorithm/Blog/issues/47)|[]()
 [《Pandas、Numpy性能优化秘籍（全）》](https://github.com/aialgorithm/Blog/issues/48)|[]()
+[《树模型遇上类别型特征(Python)》](https://github.com/aialgorithm/Blog/issues/49)|[]()
 
 <h3 id="3">金融科技</h3>
 
