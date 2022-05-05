@@ -55,6 +55,7 @@
 [《一文通俗讲透树模型》](https://github.com/aialgorithm/Blog/issues/47)|[]()
 [《Pandas、Numpy性能优化秘籍（全）》](https://github.com/aialgorithm/Blog/issues/48)|[]()
 [《树模型遇上类别型特征(Python)》](https://github.com/aialgorithm/Blog/issues/49)|[]()
+[《TensorFlow决策森林构建GBDT（Python）》](https://github.com/aialgorithm/Blog/issues/50)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/TensorFlow%E5%86%B3%E7%AD%96%E6%A3%AE%E6%9E%97%E5%AE%9E%E8%B7%B5)
 
 <h3 id="3">金融科技</h3>
 
