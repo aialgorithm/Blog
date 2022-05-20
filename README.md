@@ -7,7 +7,7 @@
 ---
 <h3 id="2">从机器学习到深度学习序列文章</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 [《一文浅谈深度学习泛化能力》](https://github.com/aialgorithm/Blog/issues/46)|[资料](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%B5%85%E8%B0%88%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B)
@@ -27,7 +27,7 @@
 
 <h3 id="1">机器学习</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
 [《Python人工智能学习路线(长篇干货) 》](https://github.com/aialgorithm/Blog/issues/22)|[资源](https://github.com/aialgorithm/AiPy)
@@ -56,11 +56,11 @@
 [《Pandas、Numpy性能优化秘籍（全）》](https://github.com/aialgorithm/Blog/issues/48)|[]()
 [《树模型遇上类别型特征(Python)》](https://github.com/aialgorithm/Blog/issues/49)|[]()
 [《TensorFlow决策森林构建GBDT（Python）》](https://github.com/aialgorithm/Blog/issues/50)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/TensorFlow%E5%86%B3%E7%AD%96%E6%A3%AE%E6%9E%97%E5%AE%9E%E8%B7%B5)
-[《深入机器学习的梯度优化》](https://github.com/aialgorithm/Blog/issues/51)|[]()
+[《深入机器学习的梯度优化》](https://github.com/aialgorithm/Blog/issues/51)
 
 <h3 id="3">金融科技</h3>
 
-|<img width=300/>文章<img width=300/>| 代码|
+|<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
 [《3句话总结信贷风控的特征》](https://github.com/aialgorithm/Blog/issues/44)
