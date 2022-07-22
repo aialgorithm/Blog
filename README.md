@@ -66,7 +66,7 @@
 [《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%AE%A2%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%8F%8A%E8%90%A5%E9%94%80)
 [《一窥推荐系统的原理》](https://github.com/aialgorithm/Blog/issues/43)
-[《电影推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98)
+[《推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98)
 
 
 ### 其他
