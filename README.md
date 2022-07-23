@@ -67,6 +67,7 @@
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%AE%A2%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%8F%8A%E8%90%A5%E9%94%80)
 [《一窥推荐系统的原理》](https://github.com/aialgorithm/Blog/issues/43)
 [《推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98)
+[《海外金融风控算法实践（Python）》](https://github.com/aialgorithm/Blog/issues/55)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B5%B7%E5%A4%96%E9%87%91%E8%9E%8D%E9%A3%8E%E6%8E%A7%E5%AE%9E%E8%B7%B5)
 
 
 ### 其他
