@@ -1,14 +1,14 @@
-## "算法进阶"公众号精选文章及代码 【欢迎点亮Star收藏~】
+## "算法进阶"公众号的精选文章及项目代码【原创不易,欢迎点亮Star收藏~】
 
-分享Python机器学习及深度学习算法等原创文章、代码及学习资源。原创不易，感谢阅读及关注~
 
 ---
-<h3 id="2">从机器学习到深度学习序列文章</h3>
+<h3 id="2">深度学习序列文章</h3>
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
-[《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
+
 [《一文浅谈深度学习泛化能力》](https://github.com/aialgorithm/Blog/issues/46)|[资料](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%B5%85%E8%B0%88%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B)
+[《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 [《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%B1%BB%E5%88%AB%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
 [《一文全览机器学习建模流程（Python代码）》](https://github.com/aialgorithm/Blog/issues/21)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%85%A8%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
 [《神经元谈到深度神经网络》](https://github.com/aialgorithm/Blog/issues/23)
@@ -24,7 +24,7 @@
 [《LSTM原理及生成藏头诗（Python）》](https://github.com/aialgorithm/Blog/issues/41)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/LSTM)
 [《一文概览NLP算法(Python)》](https://github.com/aialgorithm/Blog/issues/52)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%A6%82%E8%A7%88NLP%E7%AE%97%E6%B3%95%EF%BC%88Python%EF%BC%89)
 
-<h3 id="1">机器学习</h3>
+<h3 id="1">机器学习序列文章</h3>
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
