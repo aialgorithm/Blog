@@ -56,7 +56,7 @@
 [《TensorFlow决策森林构建GBDT（Python）》](https://github.com/aialgorithm/Blog/issues/50)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/TensorFlow%E5%86%B3%E7%AD%96%E6%A3%AE%E6%9E%97%E5%AE%9E%E8%B7%B5)
 [《深入机器学习的梯度优化》](https://github.com/aialgorithm/Blog/issues/51)
 [《树+神经网络算法强强联手（Python）》](https://github.com/aialgorithm/Blog/issues/57)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%A0%91%2B%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%BC%BA%E8%81%94%E6%89%8B(Python))
-[《树模型决策的可解释性与微调(Python)》](https://github.com/aialgorithm/Blog/issues/58)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/树模型决策的可解释性与微调(Python))
+[《树模型决策的可解释性与微调(Python)》](https://github.com/aialgorithm/Blog/issues/59)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/树模型决策的可解释性与微调(Python))
 
 <h3 id="3">金融科技</h3>
 
