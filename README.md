@@ -64,7 +64,6 @@
  :-: | :-: |
  [《一文梳理金融风控建模全流程(Python)》](https://github.com/aialgorithm/Blog/issues/44)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%A2%B3%E7%90%86%E9%A3%8E%E6%8E%A7%E5%BB%BA%E6%A8%A1%E5%85%A8%E6%B5%81%E7%A8%8B)
 [《基于知识图谱的营销反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/6)
-[《一文贯穿信贷反欺诈全流程》](https://github.com/aialgorithm/Blog/issues/9)
 [《客户流失预测及营销(Python)》](https://github.com/aialgorithm/Blog/issues/8)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%AE%A2%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%8F%8A%E8%90%A5%E9%94%80)
 [《一窥推荐系统的原理》](https://github.com/aialgorithm/Blog/issues/43)
 [《推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98)
