@@ -57,6 +57,8 @@
 [《深入机器学习的梯度优化》](https://github.com/aialgorithm/Blog/issues/51)
 [《树+神经网络算法强强联手（Python）》](https://github.com/aialgorithm/Blog/issues/57)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%A0%91%2B%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%BC%BA%E8%81%94%E6%89%8B(Python))
 [《树模型决策的可解释性与微调(Python)》](https://github.com/aialgorithm/Blog/issues/59)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/树模型决策的可解释性与微调(Python))
+[《机器学习模型迭代方法总结(Python)》](https://github.com/aialgorithm/Blog/issues/60)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%A8%A1%E5%9E%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93(%E5%A2%9E%E9%87%8F%E5%AD%A6%E4%B9%A0))
+[《引入业务先验约束的树模型(Python)》](https://github.com/aialgorithm/Blog/issues/61)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%BC%95%E5%85%A5%E4%B8%9A%E5%8A%A1%E5%85%88%E9%AA%8C%E7%BA%A6%E6%9D%9F%E7%9A%84%E6%A0%91%E6%A8%A1%E5%9E%8B(Python))
 
 <h3 id="3">金融科技</h3>
 
