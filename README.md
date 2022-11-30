@@ -27,7 +27,7 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
- [《AI人工智能核心概念(科普) 》](https://github.com/aialgorithm/Blog/issues/61)|[]()
+ [《AI人工智能核心概念(科普) 》](https://github.com/aialgorithm/Blog/issues/62)|[]()
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
 [《Python人工智能学习路线(长篇干货) 》](https://github.com/aialgorithm/Blog/issues/22)|[资源](https://github.com/aialgorithm/AiPy)
 [《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97demo)
