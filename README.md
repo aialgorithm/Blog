@@ -27,7 +27,8 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
- [《一文祛魅AI核心概念(全) 》](https://github.com/aialgorithm/Blog/issues/62)|[]()
+[《一文祛魅AI核心概念(全) 》](https://github.com/aialgorithm/Blog/issues/62)|[]()
+[《机器学习数据不满足同分布，怎么整？ 》](https://github.com/aialgorithm/Blog/issues/63)|[]()
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
 [《Python人工智能学习路线(长篇干货) 》](https://github.com/aialgorithm/Blog/issues/22)|[资源](https://github.com/aialgorithm/AiPy)
 [《Python机器学习入门指南（全）》](https://github.com/aialgorithm/Blog/issues/2)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97demo)
@@ -60,6 +61,7 @@
 [《树模型决策的可解释性与微调(Python)》](https://github.com/aialgorithm/Blog/issues/59)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/树模型决策的可解释性与微调(Python))
 [《机器学习模型迭代方法总结(Python)》](https://github.com/aialgorithm/Blog/issues/60)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%A8%A1%E5%9E%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93(%E5%A2%9E%E9%87%8F%E5%AD%A6%E4%B9%A0))
 [《引入业务先验约束的树模型(Python)》](https://github.com/aialgorithm/Blog/issues/61)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E5%BC%95%E5%85%A5%E4%B8%9A%E5%8A%A1%E5%85%88%E9%AA%8C%E7%BA%A6%E6%9D%9F%E7%9A%84%E6%A0%91%E6%A8%A1%E5%9E%8B(Python))
+[《多标签分类怎么做？(Python)》](https://github.com/aialgorithm/Blog/issues/64)|[]()
 
 <h3 id="3">金融科技</h3>
 
