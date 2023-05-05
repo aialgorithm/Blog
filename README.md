@@ -6,6 +6,7 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
+ [《深度学习GPU环境配置及建模（Python）》](https://github.com/aialgorithm/Blog/issues/65) |[代码](https://github.com/aialgorithm/Blog/tree/master/projects/gpu%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
 [《一文盘点令人惊艳AI神器（附项目代码）》](https://github.com/aialgorithm/Blog/issues/65) 
 [《一文浅谈深度学习泛化能力》](https://github.com/aialgorithm/Blog/issues/46)|[资料](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%B5%85%E8%B0%88%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B)
 [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
