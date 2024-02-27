@@ -6,12 +6,10 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
- [《深度学习GPU环境配置及建模（Python）》](https://github.com/aialgorithm/Blog/issues/66) |[代码](https://github.com/aialgorithm/Blog/tree/master/projects/gpu%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
+[《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B(Python))
+[《深度学习GPU环境配置及建模（Python）》](https://github.com/aialgorithm/Blog/issues/66) |[代码](https://github.com/aialgorithm/Blog/tree/master/projects/gpu%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
 [《一文盘点令人惊艳AI神器（附项目代码）》](https://github.com/aialgorithm/Blog/issues/65) 
 [《一文浅谈深度学习泛化能力》](https://github.com/aialgorithm/Blog/issues/46)|[资料](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%B5%85%E8%B0%88%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B)
-[《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
-[《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%B1%BB%E5%88%AB%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
-[《一文全览机器学习建模流程（Python代码）》](https://github.com/aialgorithm/Blog/issues/21)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%85%A8%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
 [《神经元谈到深度神经网络》](https://github.com/aialgorithm/Blog/issues/23)
 [《一文讲透神经网络的激活函数》](https://github.com/aialgorithm/Blog/issues/24)
 [《神经网络拟合能力的提升之路（Pyhton）》](https://github.com/aialgorithm/Blog/issues/25)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%8B%9F%E5%90%88%E8%83%BD%E5%8A%9B%E7%9A%84%E6%8F%90%E5%8D%87%E4%B9%8B%E8%B7%AF%EF%BC%88Pyhton%EF%BC%89)
@@ -19,7 +17,6 @@
 [《神经网络学习到的是什么？（Python）》](https://github.com/aialgorithm/Blog/issues/27)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E5%88%B0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%EF%BC%88Python%EF%BC%89)
 [《一文深层解决过拟合》](https://github.com/aialgorithm/Blog/issues/29)
 [《一文概览神经网络优化算法》](https://github.com/aialgorithm/Blog/issues/30)
-[《一文搞定深度学习建模预测全流程（Python）》](https://github.com/aialgorithm/Blog/issues/31)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B(Python))
 [《一文详解RNN及股票预测实战(Python)！》](https://github.com/aialgorithm/Blog/issues/35)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%AF%A6%E8%A7%A3RNN%E5%8F%8A%E5%AE%9E%E6%88%98(Python))
 [《一文弄懂CNN及图像识别(Python)》](https://github.com/aialgorithm/Blog/issues/37)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82CNN%E5%8F%8A%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB(Python))
 [《LSTM原理及生成藏头诗（Python）》](https://github.com/aialgorithm/Blog/issues/41)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/LSTM)
@@ -29,6 +26,9 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
+ [《一文全览机器学习建模流程（Python代码）》](https://github.com/aialgorithm/Blog/issues/21)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E5%85%A8%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
+[《一文全面解决样本不均衡》](https://github.com/aialgorithm/Blog/issues/40)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%A7%A3%E5%86%B3%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1(%E5%85%A8))
+[《一文速览机器学习的类别（Python代码）》](https://github.com/aialgorithm/Blog/issues/20)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%B1%BB%E5%88%AB%EF%BC%88Python%E4%BB%A3%E7%A0%81%EF%BC%89)
 [《一文祛魅AI核心概念(全) 》](https://github.com/aialgorithm/Blog/issues/62)|[]()
 [《机器学习数据不满足同分布，怎么整？ 》](https://github.com/aialgorithm/Blog/issues/63)|[]()
 [《几经沉浮，人工智能(AI)前路何方？》](https://github.com/aialgorithm/Blog/issues/16)|
@@ -52,7 +52,7 @@
 [《全面归纳距离和相似度方法(7种)》](https://github.com/aialgorithm/Blog/issues/36)
 [《深入理解KNN扩展到ANN)》](https://github.com/aialgorithm/Blog/issues/38)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3KNN%E6%89%A9%E5%B1%95%E5%88%B0ANN)
 [《从深度学习到深度森林方法（Python）》](https://github.com/aialgorithm/Blog/issues/38)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E9%A2%84%E6%B5%8B)
-[《一文全面解决样本不均衡》](https://github.com/aialgorithm/Blog/issues/40)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E4%B8%80%E6%96%87%E8%A7%A3%E5%86%B3%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1(%E5%85%A8))
+ [《一篇白话机器学习概念》](https://github.com/aialgorithm/Blog/issues/19)
 [《全面解析Kmeans聚类(Python)》](https://github.com/aialgorithm/Blog/issues/42)|[代码](./projects/kmeans++)
 [《一文通俗讲透树模型》](https://github.com/aialgorithm/Blog/issues/47)|[]()
 [《Pandas、Numpy性能优化秘籍（全）》](https://github.com/aialgorithm/Blog/issues/48)|[]()
